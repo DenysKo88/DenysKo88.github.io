@@ -5,8 +5,8 @@ $(document).ready(function(){
       speed: 600,
       slidesToShow: 1,
       adaptiveHeight: false,
-      prevArrow: '<button type="button" class="slick-prev"><img src="./icons/3_section/left.svg"></button>',
-      nextArrow: '<button type="button" class="slick-next"><img src="./icons/3_section/right.svg"></button>',
+      prevArrow: '<button type="button" class="slick-prev"><img src="icons/3_section/left.svg"></button>',
+      nextArrow: '<button type="button" class="slick-next"><img src="icons/3_section/right.svg"></button>',
       responsive:[
         {
             breakpoint: 621,
