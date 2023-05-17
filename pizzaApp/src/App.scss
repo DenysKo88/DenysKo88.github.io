@@ -1,0 +1,26 @@
+.App {
+  padding: 50px 100px;
+  text-align: center;
+  background: url('../public/pizza_bg.png') no-repeat center center/cover;
+}
+.App-title  {
+  font-size: 36px;
+  line-height: 42px;
+  font-family: 'Roboto', sans-serif;
+}
+.table-wrapper {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10%;
+}
+.btn.btn-primary,
+.btn.btn-danger {
+  margin-top: 20px;
+  margin-left: 15px;
+  
+}
+
+
+
+
